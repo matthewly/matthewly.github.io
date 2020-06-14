@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+* Currently a Software Engineer at Workday
+* @UIUC '16 graduate with Computer Engineering degree
+* Interested in tinkering with web development, especially integrating free-tier APIs with new JavaScript frameworks
 
 ### More Information
 
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[MatthewLy@gmail.com](mailto:MatthewLy@gmail.com)
