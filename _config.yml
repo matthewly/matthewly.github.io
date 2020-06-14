@@ -6,7 +6,7 @@
 name: Matthew
 
 # Short bio or description (displayed in the header)
-description: Software Engineer based in SF Bay Area
+description: Software Engineer (SF Bay Area)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/9907010?s=460&u=4e1776eeae8439b24ef0636289f078e1cb2cfc3e&v=4
@@ -19,7 +19,7 @@ avatar: https://avatars0.githubusercontent.com/u/9907010?s=460&u=4e1776eeae8439b
 footer-links:
   dribbble:
   email: matthewly@gmail.com
-  facebook: matthewmly
+  facebook:
   flickr:
   github: matthewly
   instagram: matthewmly
