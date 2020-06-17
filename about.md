@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-* Currently a Software Engineer at Workday
-* @UIUC '16 graduate with Computer Engineering degree
-* Interested in tinkering with web development, especially integrating free-tier APIs with new JavaScript frameworks
+Hi! I'm a Software Engineer at Workday. I currently work on Prism Analytics, an end-to-end data analytics product, part of the Workday ecosystem, which helps businesses better understand their financials and HR data. Being a part of Data Discovery team in Analytics org, I specialize in UI development and integrating the product with other services within Workday. On my free time, I enjoy tinkering with web development, especially thinking of ways to consume external free-tier APIs to improve web apps. I hold a Bachelor's degree in Computer Engineering from University of Illinois at Urbana-Champaign.
 
 ### Contact me
 
